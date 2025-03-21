@@ -1,13 +1,15 @@
 # TP-Git
 
-## Repository for our TP with Git 
+>[!NOTE] 
+>Repository for our TP with Git 
 
-**YEAR AND TRACK** : `M1 OCC 2024-2025`
+**YEAR** : `M1`
 
+**TRACK** : `OCC`
 
 
 **TEAM MEMBERS** :
 
-    - RASAMOELINA Mandresy
-    - ZARA Damien
+    - RASAMOELINA Mandresy 
+    - ZARA Damien Emmanuel
 
